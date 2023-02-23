@@ -6,7 +6,7 @@
 * Return: always 0 (success)
 */
 
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 int number_x10 = 0;
 char alphabet;
