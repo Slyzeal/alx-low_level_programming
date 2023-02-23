@@ -1,7 +1,6 @@
 #include "main.h"
 /*
 * print_sign - function
-*
 * @n:char
 * Return: 1,0, -1
 */
