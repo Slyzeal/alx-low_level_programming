@@ -1,5 +1,5 @@
 # include "main.h"
-/*
+/**
 * _isupper - Uppercase
 * @c:integer
 * Return: 1, and 0

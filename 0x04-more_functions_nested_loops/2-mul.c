@@ -1,8 +1,9 @@
 # include "main.h"
-/*
-* mul: - Multiply
+/**
+* mul - Multiply
 * Description: Multiply
-* @a, b:integer
+* @a:integer
+* @b:integer
 * Return: a * b
 */
 int mul(int a, int b)
